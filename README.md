@@ -2,7 +2,7 @@
 <!-- <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Alberto-007/Alberto-007/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" /> -->
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> In frontend development mainly using React, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>front-end developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ to solve great challenges using tech. <br><br> In frontend development mainly using React, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>front-end developer</strong> focused on web development and with interest in back-end.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Alberto-007&theme=radical&mode=weekly" />
