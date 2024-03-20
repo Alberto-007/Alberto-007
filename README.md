@@ -1,12 +1,12 @@
 
-<!-- <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Alberto-007/Alberto-007/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" /> -->
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Alberto-007/Alberto-007/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ to solve great challenges using tech. <br><br> In web development mainly using React, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full-stack web developer</strong> focused on transforming my ideas in reality and with interest in learning new things.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Alberto-007&theme=radical&mode=weekly" />
-<!-- <img width=40% align="center" src="https://github-readme-stats-git-main-Alberto-007.vercel.app/api/top-langs/?username=Alberto-007&show_icons=true&theme=radical&layout=compact" /> -->
+<img width=40% align="center" src="https://github-readme-stats-git-main-Alberto-007.vercel.app/api/top-langs/?username=Alberto-007&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
@@ -30,6 +30,7 @@
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
+![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
